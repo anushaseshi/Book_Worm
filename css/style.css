@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+#img_logo{
+	float: left;
+	height: 50px;
+	width: 80px;
+}
+
+#logo{
+	padding-bottom: 10%;
+}
+
+#signin{
+	float: right;
+}
+
+.short{
+font-weight:bold;
+color:#FF0000;
+}
+.weak{
+font-weight:bold;
+color:orange;
+}
+.good{
+font-weight:bold;
+color:#2D98F3;
+}
+.strong{
+font-weight:bold;
+color: limegreen;
+}
+.ok{
+font-weight:bold;
+color: limegreen;
+}
+.mismatch{
+font-weight:bold;
+color:#FF0000;
+}
+
+#carousel1{
+	width: 100%;
+}
